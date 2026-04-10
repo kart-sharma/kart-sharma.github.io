@@ -16,6 +16,10 @@
     --card-bg: #ffffff;
     --accent: #f59e0b;
 
+    p {
+        font-family: 'Poppins', sans-serif
+    }
+
 
 }
 
