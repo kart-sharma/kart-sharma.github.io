@@ -1,4 +1,4 @@
-# Kartavya Sharma Portfolio 
+# Kartavya Sharma's Portfolio 
 
 This is my personal portfolio website showcasing my projects, skills, and experience in software engineering.
 
@@ -18,5 +18,5 @@ https://kart-sharma.github.io/
 - Contact form (Integrated with EmailJS)
 
 
-#Contact
+# Contact
 Feel free to reach out to me through the contact form on the website.
